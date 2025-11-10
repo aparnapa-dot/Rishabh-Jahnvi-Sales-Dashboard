@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="45F8D070-BC59-4376-B93C-2F1D011D4ACD" src="https://github.com/user-attachments/assets/50db8b87-d096-41cd-83b3-40d87fe6adb8" />
 
 
 Student Detail

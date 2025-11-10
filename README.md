@@ -1,3 +1,5 @@
+<img width="320" height="213" alt="45F8D070-BC59-4376-B93C-2F1D011D4ACD" src="https://github.com/user-attachments/assets/e356b9e7-7525-48ac-8976-7745a8f26a91" />
+
 Student Detail
 Course code: Bm 380
 Student name: Aparna Pathak
@@ -118,9 +120,4 @@ Optional Visuals
 •	## How to View
 •	1. Download the `.pbix` file or `.csv` dataset.
 •	2. Open in Power BI Desktop.
-•	3. Explore interactive visualizations.
-
-
-
-
-
+•	3. Explore interactive visualizations
